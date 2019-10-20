@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ListPage.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>NodeListView.qml</file>
+        <file>AccountPage.qml</file>
+        <file>AddNodeMenu.qml</file>
+        <file>BankCardPage.qml</file>
+        <file>BasePage.qml</file>
+        <file>ContactPage.qml</file>
+        <file>EditNodeMenu.qml</file>
+        <file>EmptyPage.qml</file>
+        <file>MemoPage.qml</file>
+        <file>NodeControl.qml</file>
+        <file>NodeDelegate.qml</file>
+        <file>NodeView.qml</file>
+        <file>PathControl.qml</file>
+        <file>image/account_big.png</file>
+        <file>image/account_small.png</file>
+        <file>image/bankcard_big.png</file>
+        <file>image/bankcard_small.png</file>
+        <file>image/contact_big.png</file>
+        <file>image/contact_small.png</file>
+        <file>image/file_big.png</file>
+        <file>image/file_small.png</file>
+        <file>image/folder_small.png</file>
+        <file>image/home_folder.png</file>
+        <file>image/memo_big.png</file>
+        <file>image/memo_small.png</file>
+        <file>Rendall/Component/ColorLabel.qml</file>
+        <file>Rendall/Component/qmldir</file>
+        <file>Rendall/Component/BoldText.qml</file>
+        <file>Rendall/Component/RegularText.qml</file>
+        <file>font/OpenSans-Regular.ttf</file>
+        <file>font/OpenSans-SemiBold.ttf</file>
+        <file>Rendall/Component/Indicator.qml</file>
+        <file>Rendall/Component/InputArea.qml</file>
+        <file>Rendall/Component/InputField.qml</file>
+    </qresource>
+</RCC>

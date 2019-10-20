@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/Main.qml</file>
+        <file>qml/font/OpenSans-Regular.ttf</file>
+        <file>qml/font/OpenSans-SemiBold.ttf</file>
+        <file>qml/image/account_big.png</file>
+        <file>qml/image/account_small.png</file>
+        <file>qml/image/bankcard_big.png</file>
+        <file>qml/image/bankcard_small.png</file>
+        <file>qml/image/contact_big.png</file>
+        <file>qml/image/contact_small.png</file>
+        <file>qml/image/file_big.png</file>
+        <file>qml/image/file_small.png</file>
+        <file>qml/image/folder_small.png</file>
+        <file>qml/image/home_folder.png</file>
+        <file>qml/image/memo_big.png</file>
+        <file>qml/image/memo_small.png</file>
+        <file>qml/config.json</file>
+        <file>qml/main_old.qml</file>
+        <file>qml/qtquickcontrols2.conf</file>
+        <file>qml/TreePage.qml</file>
+        <file>qml/AccountPage.qml</file>
+        <file>qml/BankCardPage.qml</file>
+        <file>qml/BasePage.qml</file>
+        <file>qml/ContactPage.qml</file>
+        <file>qml/EmptyPage.qml</file>
+        <file>qml/MemoPage.qml</file>
+        <file>qml/Rendall/Component/BoldText.qml</file>
+        <file>qml/Rendall/Component/ColorLabel.qml</file>
+        <file>qml/Rendall/Component/Indicator.qml</file>
+        <file>qml/Rendall/Component/InputArea.qml</file>
+        <file>qml/Rendall/Component/InputField.qml</file>
+        <file>qml/Rendall/Component/RegularText.qml</file>
+        <file>qml/Indicator.qml</file>
+        <file>qml/InputArea.qml</file>
+        <file>qml/InputField.qml</file>
+        <file>qml/SearchPage.qml</file>
+        <file>qml/FooterButton.qml</file>
+        <file>qml/CreateNodeMenu.qml</file>
+    </qresource>
+</RCC>
